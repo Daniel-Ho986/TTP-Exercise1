@@ -6,4 +6,4 @@ Contact Card
 - The name, mobile number, and email are required, but the work phone is optional
 - Create a page that displays at least 3 different contact cards with different information
 
-View Page at: 
+View Page at: https://daniel-ho986.github.io/TTP-Exercise1/
